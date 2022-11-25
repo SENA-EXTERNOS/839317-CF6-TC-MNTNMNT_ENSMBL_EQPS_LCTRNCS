@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Mantenimiento de equipos electrónicos**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://sena-externos.github.io/839317-CF6-TC-MNTNMNT_ENSMBL_EQPS_LCTRNCS](https://sena-externos.github.io/839317-CF6-TC-MNTNMNT_ENSMBL_EQPS_LCTRNCS)
 
 #
 
@@ -10,7 +10,7 @@
 
 ### 1. Se recomienda trabajar con [vs-code](https://code.visualstudio.com/)
 
-### 2. Instalar extención [EsLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+### 2. Instalar extensión [EsLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
 ### 3. Asegurarse que el repositorio tiene TODOS los archivos de la [BASE](https://github.com/ECORED-SENA/ECORED-BASE-2021)
 
