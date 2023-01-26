@@ -3,14 +3,11 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p El organizador gráfico que se presenta a continuación permitirá identificar y recordar cada uno de los saberes desarrollados en este componente formativo.
+    p.mb-5 El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo.
     
     .row.justify-content-center
       .col-lg-10.mb-5
-        .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 4
-          span
-          em Mantenimiento de equipos electrónicos 
+
         figure
           img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
       .col-auto

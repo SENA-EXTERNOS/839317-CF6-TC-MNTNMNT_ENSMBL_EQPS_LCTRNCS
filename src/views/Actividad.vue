@@ -11,7 +11,9 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Mantenimiento de equipos electrónicos
-        p.mb-4 La actividad que se presenta a continuación tiene el propósito de recordar los saberes desarrollados en este componente formativo. Para ello se debe asociar cada uno de los enunciados con el concepto que le corresponde:
+        p.mb-3 Esta actividad le permitirá determinar el grado de apropiación de los contenidos del componente formativo.
+        p.mb-5 De acuerdo con la definición planteada en la columna izquierda, arrastre cada término al lugar que considere correcto de la columna derecha.
+
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

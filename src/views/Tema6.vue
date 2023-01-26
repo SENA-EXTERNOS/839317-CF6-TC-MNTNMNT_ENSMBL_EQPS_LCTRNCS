@@ -18,18 +18,13 @@
         figure
           img(src='@/assets/curso/temas/t6/f1.png', alt='')
 
-    separador
-
-    #t_6_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 6.1 Algoritmos y diagramas de flujo 
+    h3.mb-5 Algoritmos y diagramas de flujo 
 
     p Dado que el objetivo de este documento es dar una noción general e introductoria acerca de la programación, por ende el primer apartado se divide en dos secciones, los algoritmos y los diagramas de flujo; el primero de ellos busca mediante acciones, reglas o instrucciones lógicas definidas dar con la solución parcial o completa de un problema, siendo este el primer apartado clave a la hora de realizar un programa, esto gracias a que es la estructura de cualquier solución lógica mediante un programa.
 
-    h3.titulo-tercero(data-aos='fade-right')
-      i.fas.fa-square.me-2.cab
-      | Estructura
+    h3.titulo-tercero(data-aos='fade-right') Estructura
 
-    p A continuación, se presentan las características de las estructuras de los algoritmos.
+    p A continuación, se presentan las características de las estructuras de los algoritmos:
 
     .tarjeta.sliderbg.fcp20.mb-5
       SlyderA(tipo='b', data-aos="zoom-in")
@@ -66,9 +61,7 @@
             figure
               img(src='@/assets/curso/temas/t6/f5.png', alt='Texto que describa la imagen')
 
-    h3.titulo-tercero(data-aos='fade-right')
-      i.fas.fa-square.me-2.cab 
-      | Diagrama de flujo 
+    h3.titulo-tercero(data-aos='fade-right') Diagrama de flujo 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
@@ -77,45 +70,33 @@
           h5 Estructura o partes
           p.mb-0 La estructura o partes de este tipo de representación se realiza mediante el uso de figuras geométricas, cada una de ellas con un significado diferente, tal como se muestra en la siguiente imagen.
       .col-lg-4
-        .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 2
-          br
-          em Diagrama de flujo 
         figure
           img(src='@/assets/curso/temas/t6/f6.png', alt='')
-          figcaption Nota: adaptado de Cardenas, (s.f). 
-            a(href="https://blog.hubspot.es/sales/que-es-diagrama-flujo-procesos" target="_blank") https://blog.hubspot.es/sales/que-es-diagrama-flujo-procesos
 
-    separador
 
-    #t_6_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 6.2 Introducción a los antómatas programables
+    h3.mb-5 Introducción a los antómatas programables
 
     .col-md-10.mx-auto.mb-5.invertido
       .bloque-texto-a.color-acento-contenido.p-4.p-md-5.mb-5.bgf7
         .row.m-0.align-items-center.justify-content-between
           .col-lg-7.mb-4.mb-lg-0
             .bloque-texto-a__texto.p-4
-              p.mb-0 Dentro de un proceso industrial existen dispositivos electrónicos responsables de automatizar procesos, controlar entradas, salidas y tomar decisiones en el desarrollo de las actividades industriales. Conocer el tipo de herramienta usada para diseñar las instrucciones secuenciales o algoritmos de un autómata programable resulta ser esencial para comprender e interpretar las soluciones diseñadas por antiguos profesionales o para diseñar proyectos nuevos, (Domingo, J., Grau, A., Martínez, H & Gázmin, J, 2003). Con lo anterior, se presentan dos grandes lenguajes responsables del diseño de algoritmos en los autómatas programables; ambos buscan por medio de representaciones gráficas llegar a una solución de un problema industrial, estos lenguajes son: Grafcet y Landero.
-          .col-lg-3
+              p.mb-0 Dentro de un proceso industrial, existen dispositivos electrónicos responsables de automatizar procesos, controlar entradas, salidas, y tomar decisiones en el desarrollo de las actividades industriales. Conocer el tipo de herramienta utilizada para diseñar las instrucciones secuenciales o algoritmos de un autómata programable, resulta ser esencial para comprender e interpretar las soluciones diseñadas por antiguos profesionales o para diseñar proyectos nuevos. (Domingo, J., Grau, A., Martínez, H & Gázmin, J, 2003)
+              br
+              p.mb-0 Con lo anterior, se presentan dos grandes lenguajes responsables del diseño de algoritmos en los autómatas programables; ambos buscan, por medio de representaciones gráficas, llegar a una solución de un problema industrial; estos lenguajes son:<b> Grafcet y Landero.</b>
 
-    h3.titulo-tercero(data-aos='fade-right')
-      i.fas.fa-square.me-2.cab 
-      | Grafcet
+    h3.titulo-tercero(data-aos='fade-right') Grafcet
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3
         figure
           img(src='@/assets/curso/temas/t6/f8.png', alt='')
       .col-lg-9
-        p El Grafcet es un diagrama funcional que busca describir el desarrollo de una solución a un problema industrial mediante una serie de etapas y transiciones funcionales. Al igual que un diagrama de flujo, este diagrama se constituye de una serie de elementos gráficos que representan un cierto tipo de acción donde cada una de estas refleja la evolución que va adquiriendo el sistema. Para (Domingo et al, 2003)  “El Grafcet es una herramienta para la representación de automatismos que deban llevar a cabo una determinada secuencia. Es un método gráfico que permite establecer el orden de las acciones que éste debe realizar y en qué condiciones debe realizarlas.” 
+        p El Grafcet, es un diagrama funcional que busca describir el desarrollo de una solución a un problema industrial, mediante una serie de etapas y transiciones funcionales. Al igual que un diagrama de flujo, este diagrama se constituye de una serie de elementos gráficos que representan un cierto tipo de acción donde cada uno de estos refleja la evolución que va adquiriendo el sistema. Para (Domingo et al, 2003) “El Grafcet es una herramienta para la representación de automatismos que deban llevar a cabo una determinada secuencia. Es un método gráfico que permite establecer el orden de las acciones que este debe realizar y en qué condiciones debe realizarlas”. 
         p A continuación, se presentan los elementos más comunes dentro del lenguaje de programación Grafcet:
 
     .col-md-8.mx-auto.mb-5
-      .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-        h5 Figura 3
-        br
-        em Grafcet
+
       ImagenInfograficaB.color-primario.mb-5
         template(v-slot:imagen)
           figure
@@ -125,24 +106,22 @@
           .col-10.col-md-4.mx-auto.mb-4
             img(src='@/assets/curso/temas/t6/f10.svg', alt='')
           h5.mb-2 Etapas
-          p Las etapas dentro del lenguaje Grafcet son situaciones o conjuntos de acciones que se deben realizar en el instante o posición correspondiente. Se suelen tener dos tipos; el primero de ellos llamado etapas iniciales, en las cuales marcan el inicio de las acciones operativas y su ejecución generalmente depende una condición inicial (por ejemplo, botón “start”). El segundo grupo son las llamadas etapas activas; esta clase se caracteriza por ejecutar una acción siempre y cuando las condiciones de la etapa se cumplan. (Domingo et al, 2003) 
+          p Las etapas dentro del lenguaje Grafcet, son situaciones o conjuntos de acciones que se deben realizar en el instante o posición correspondiente. Se suelen tener dos tipos: el primero de ellos, llamado etapas iniciales, en las cuales se marca el inicio de las acciones operativas y su ejecución, generalmente dependen de una condición inicial (por ejemplo, botón “start”). El segundo tipo, se refiere a las llamadas etapas activas; esta clase se caracteriza por ejecutar una acción siempre y cuando las condiciones de la etapa se cumplan. 
         div(x="50%" y="30%" tooltip="Ver más" numero="2")
           .col-10.col-md-4.mx-auto.mb-4
             img(src='@/assets/curso/temas/t6/f11.svg', alt='')
           h5.mb-2 Transiciones
-          p Como se observó en el caso anterior cada una de las etapas necesita de una determinada condición para poder ejecutar una o varias acciones, estas condiciones se denominan transiciones y son las responsables de permitir la evolución del algoritmo. Las transiciones generalmente dependen de las acciones ejecutadas en las etapas anteriores y dependiendo del resultado y su validación permite el paso al siguiente proceso del algoritmo. (Domingo et al, 2003)
+          p Como se observó en el caso anterior, cada una de las etapas necesita de una determinada condición para poder ejecutar una o varias acciones; estas condiciones se denominan transiciones y son las responsables de permitir la evolución del algoritmo. Las transiciones, generalmente dependen de las acciones ejecutadas en las etapas anteriores y dependiendo del resultado y su validación, permiten el paso al siguiente proceso del algoritmo. 
         div(x="75%" y="30%" tooltip="Ver más" numero="3")
           .col-10.col-md-4.mx-auto.mb-4
             img(src='@/assets/curso/temas/t6/f12.svg', alt='')
           h5.mb-2 Receptividad
-          p La receptividad dentro del lenguaje Grafcet hace referencia a todas aquellas expresiones que se ejecutan en cada una de las etapas después de validar las condiciones de transición, este tipo de proposiciones o expresiones dependen de factores externos como las entradas del autómata o de información interna como los temporizadores implementados en etapas anteriores. (Domingo et al, 2003)
+          p La receptividad dentro del lenguaje Grafcet, hace referencia a todas aquellas expresiones que se ejecutan en cada una de las etapas, después de validar las condiciones de transición; este tipo de proposiciones o expresiones, dependen de factores externos como las entradas del autómata o de información interna como los temporizadores implementados en etapas anteriores. 
 
-    h3.titulo-tercero(data-aos='fade-right')
-      i.fas.fa-square.me-2.cab 
-      | Ladder
+    h3.titulo-tercero(data-aos='fade-right') Ladder
 
-    p Al igual que en el caso anterior la programación en lenguaje de Ladder usa símbolos gráficos para representar cada uno de los procesos que debe realizar el algoritmo. La estructura del programa dentro de este tipo de lenguaje sigue el patrón de una escalera, de ahí su nombre en inglés, en donde cada uno de los pasos (escalón) o etapas se desarrollan de izquierda a derecha y de arriba hacia abajo. Otra diferencia notoria con respecto al lenguaje de la pasada sección es el uso de gráficos tipo contactores que en combinaciones lógicas pueden representar todo un proceso, adicionalmente poseen elementos en formatos de “caja” que representan acciones más complejas. (Neheyler Mechatronics, 2022)
-    p Entre los elementos más característicos del Ladder, se encuentran.
+    p Al igual que en el caso anterior, la programación en lenguaje de Ladder, utiliza símbolos gráficos para representar cada uno de los procesos que debe realizar el algoritmo. La estructura del programa dentro de este tipo de lenguaje sigue el patrón de una escalera, de ahí su nombre en inglés, en donde cada uno de los pasos (escalón) o etapas, se desarrollan de izquierda a derecha y de arriba hacia abajo. Otra diferencia notoria con respecto al lenguaje de la pasada sección, es el uso de gráficos tipo contactores que, en combinaciones lógicas, pueden representar todo un proceso; adicionalmente poseen elementos en formatos de “caja” que representan acciones más complejas. (Neheyler Mechatronics, 2022)
+    p Entre los elementos más característicos del Ladder, se encuentran:
 
     .row.justify-content-center.mb-5
       .col-lg-5(data-aos="fade-right")
@@ -157,7 +136,7 @@
           
     .col-md-10.mx-auto
       .cajon.color-acento-botones.p-4.mb-4
-        p.mb-0 Se ha finalizado el estudio del presente componente formativo a través del cual se ha aprendido sobre el mantenimiento de equipos electrónicos. En la síntesis se podrán recordar de forma general los saberes que se desarrollaron y al realizar la actividad de aprendizaje se pondrá a prueba lo aprendido; consultar el material complementario que servirá como refuerzo, profundización y a estudiar el glosario.
+        p.mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
 
 </template>
 

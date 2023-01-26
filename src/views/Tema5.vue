@@ -16,7 +16,7 @@
         .cajon.color-primario.p-4.mb-4
           p.mb-0 En términos ambientales la eficiencia energética busca reducir en lo posible la intensidad eléctrica generada para suplir la demanda de los usuarios que buscan satisfacer sus necesidades, esto repercute directamente en la reducción de las emisiones de CO2 responsables del efecto invernadero.
 
-    p Para ampliar mejor el horizonte de la eficiencia energética se presenta el siguiente contenido.
+    p Para ampliar mejor el horizonte de la eficiencia energética, se presenta el siguiente contenido:
 
     TabsA.color-acento-botones.mb-5(data-aos="flip-up")
       .row.align-items-center.justify-content-center.tarjeta.tarjeta--azul.p-4(titulo="Etiquetado", style="border: #138AF8 solid 5px; ")

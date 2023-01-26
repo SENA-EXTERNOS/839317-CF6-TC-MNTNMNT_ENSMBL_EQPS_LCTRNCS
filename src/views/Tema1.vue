@@ -14,16 +14,9 @@
         :style="{'background-image':`url(${require('@/assets/curso/temas/t1/f1.jpg')})`}", data-aos="fade-right"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Un dispositivo electrónico está compuesto por muchos elementos eléctricos y electrónicos que en conjunto permiten el funcionamiento adecuado de un dispositivo. No obstante, para que un aparato electrónico pueda realizar el proceso para el cual fue diseñado en ocasiones son necesarias una serie de instrucciones que deben seguidas por el conjunto de elementos que conforman el dispositivo para su correcto funcionamiento. Esta serie de instrucciones se conocen como 
-          em software
-          | ; el cual es el responsable de coordinar todas las acciones dentro de un equipo de manera precisa. Si comparamos un aparato electrónico con el cuerpo humano el 
-          em software 
-          |  sería el equivalente al cerebro y al sistema nervioso, de ahí su importancia. (TodaMateria, 2022).
+        p.mb-0 Un dispositivo electrónico está compuesto por muchos elementos eléctricos y electrónicos que, en conjunto, permiten el funcionamiento adecuado de un dispositivo. No obstante, para que un aparato electrónico pueda realizar el proceso para el cual fue diseñado, en ocasiones se hace necesario una serie de instrucciones que deben ser seguidas por este conjunto para su correcto funcionamiento. Esta serie de instrucciones se conocen como <em>software</em>, el cual es el responsable de coordinar todas las acciones dentro de un equipo de manera precisa. 
 
-    separador 
-
-    #t_1_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 1.1 Instalación
+    h3.my-5 Instalación
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.zi2(data-aos="fade-right")
@@ -35,7 +28,7 @@
           |  es el proceso por medio del cual las instrucciones o las acciones que debe realizar un equipo son cargadas al 
           em hardware
           | , por esta razón cada uno de los pasos necesarios para una adecuada instalación se deben seguir o ejecutar de acuerdo con el manual suministrado por el fabricante. 
-        p Independientemente del fabricante, las etapas o secuencia que se debe realizar en este proceso se presentan a continuación.
+        p Independientemente del fabricante, las etapas o secuencias que se deben realizar en este proceso, se presentan a continuación:
 
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta fcs80")
       .row.align-items-center.justify-content-center(titulo="Preinstalación")
@@ -80,10 +73,7 @@
           figure
             img(src='@/assets/curso/temas/t1/f5.png', alt='Texto que describa la imagen')
 
-    separador
-
-    #t_1_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 1.2 Funcionamiento 
+    h3.my-5 Funcionamiento 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.zi2(data-aos="zoom-in")
@@ -94,7 +84,7 @@
           em software
           |  y del equipo contenedor del mismo se debe verificar una vez se han realizado todas las correcciones y/o verificaci&oacute;n del estado de instalaci&oacute;n. A diferencia de la post instalaci&oacute;n en donde el objetivo principal es la b&uacute;squeda de aquellos modos u opciones que no se encuentren habilitados, as&iacute; como tambi&eacute;n aquellos controladores que no se hubiesen instalados de manera correcta.
         p A continuación, se presentan algunos de los elementos que deben ser considerados en la verificación y funcionamiento del 
-          em software.
+          em software:
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
       .tarjeta.fcac15.p-4(style="height:460px")
@@ -126,10 +116,7 @@
         h4.text-center Importante
         p.text-center Se debe recalcar que todas las pruebas deben hacerse en un ambiente controlado, tomando todas las medidas de seguridad necesarias para evitar accidentes.
 
-    separador
-
-    #t_1_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 1.3 Configuración
+    h3.mb-5 Configuración
 
     .row.justify-content-center.mb-5
       .col-lg-5(data-aos="fade-right")
@@ -144,10 +131,7 @@
         .cajon.color-primario.p-4.mb-4
           p.mb-0 Por ejemplo, en el caso de tener equipos dedicados al ensamble de piezas o carrocerías se debe configurar la fuerza con la que se va a ajustar cada uno de los tornillos, tuercas, etc. Esos ajustes por ende se deben realizar acorde con la tarea a desarrollar; por lo tanto, cada modificación debe estar previamente consultada y verificada por el experto en el área en la cual va a funcionar el dispositivo.
 
-    separador
-
-    #t_1_4.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 1.4 Fallas comunes 
+    h3.mb-5 Fallas comunes 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6.tarjeta.fcp20.tr_first.zi1
@@ -158,7 +142,7 @@
         figure
           img(src='@/assets/curso/temas/t1/f12.svg', alt='')
 
-    p A continuación, se presentan algunos de los fallos más comunes que se pueden presentar:
+    p.mb-5 Observemos a continuación, algunos de los fallos más comunes que se pueden presentar:
 
     .col-md-10.mx-auto(data-aos="zoom-in")
       ImagenInfografica.color-acento-botones.mb-5
@@ -175,19 +159,6 @@
         .tarjeta.fcblanco(x="84%" y="100%" numero=" ")
           p.p-3.fcp35.tarjeta Reinicios constantes o reinicio a valores predeterminados de los parámetros de funcionamiento, etc. 
 
-    .col-md-10.mx-auto
-      .tarjeta.color-secundario.p-3.mb-5
-        .row.justify-content-around.align-items-center
-          .col-3.col-sm-2.col-lg-1
-            img(src="@/assets/curso/temas/t1/f14.svg")
-          .col
-            .row.justify-content-between.align-items-center
-              .col.mb-3.mb-sm-0
-                p.text-small.mb-0 Con el fin de afianzar los conocimientos adquiridos en esta primera parte del componente formativo, se puede complementar el ejemplo de (IBM, 2021), donde se muestra un ejemplo de cómo es el proceso de instalación siguiendo las recomendaciones del fabricante.
-              .col-auto.mb-3.mb-sm-0
-                a.boton.color-acento-botones(href="https://www.ibm.com/docs/es/i/7.3?topic=installation-software-process" target="_blank")
-                  span Descargar 
-                  i.fas.fa-file-download
 
 </template>
 

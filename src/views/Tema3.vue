@@ -12,7 +12,9 @@
         figure
           img(src='@/assets/curso/temas/t3/f1.png', alt='')
       .col-lg-8
-        p El mantenimiento preventivo ayuda a evitar que los elementos de un equipo se desgasten o fallen, sin embargo en muchas ocasiones por diversos motivos esto no se puede asegurar y por ende surgen fallos o averías en los dispositivos que obligan a los profesionales encargados a realizar acciones diferentes a las vistas anteriormente. Estos procedimientos consisten en la reparación o reemplazo de las piezas comprometidas para que un aparato electrónico vuelva a operar (Bolinches, 2012). Para ampliar la información, se recomienda revisar el componente formativo diagnóstico de equipos electrónicos la sección “pruebas y mediciones” para conocer qué tipo de procedimientos existen y así comprobar el estado de un elemento eligiendo la mejor intervención a realizar para identificar qué elementos, áreas o piezas están comprometidas.
+        p El mantenimiento preventivo ayuda a evitar que los elementos de un equipo se desgasten o fallen; sin embargo, en muchas ocasiones y por diversos motivos, esto no se puede asegurar y, por ende, surgen fallos o averías en los dispositivos, que obligan a los profesionales encargados a realizar acciones diferentes a las vistas anteriormente. Estos procedimientos consisten en la reparación o reemplazo de las piezas comprometidas para que, un aparato electrónico, vuelva a operar. (Bolinches, 2012) 
+        p Observe el siguiente video, donde encontrará el mantenimiento correctivo, de reparación y de procedimientos técnicos:
+
 
     figure
       .video

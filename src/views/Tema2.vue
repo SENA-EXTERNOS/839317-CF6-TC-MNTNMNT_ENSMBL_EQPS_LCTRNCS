@@ -20,9 +20,7 @@
         figure
           img(src='@/assets/curso/temas/t2/f2.svg', alt='')
       .col-lg-9
-        p “El mantenimiento preventivo consiste en actuar sobre estos riesgos evitándolos o disminuyéndolos (por ejemplo, limpiando el equipo, aparatándolo de fuentes generadoras de campos magnéticos, evitando la producción de calor en su interior, etc.)” (Bolinches, 2012). Para el caso de los 
-          em softwares 
-          | el mantenimiento preventivo hace referencia a las actualizaciones del mismo, las copias y pruebas de seguridad, desfragmentación de discos, limpieza de archivos temporales y demás acciones que mantienen un sistema en óptimas condiciones, previendo como ya se observó anteriormente daños directos en los componentes por diversos factores.
+        p “El mantenimiento preventivo consiste en actuar sobre estos riesgos, evitándolos o disminuyéndolos (por ejemplo, limpiando el equipo, aparatándolo de fuentes generadoras de campos magnéticos, evitando la producción de calor en su interior, etc.)” (Bolinches, 2012). Para el caso de los <em>software</em>, el mantenimiento preventivo hace referencia a las actualizaciones del mismo, las copias y pruebas de seguridad, desfragmentación de discos, limpieza de archivos temporales y demás acciones que mantienen un sistema en óptimas condiciones, previendo, como ya se observó anteriormente, daños directos en los componentes por diversos factores:
 
     TabsC.color-acento-contenido.mb-5
       .py-4.py-md-5(titulo="Frecuencia")
