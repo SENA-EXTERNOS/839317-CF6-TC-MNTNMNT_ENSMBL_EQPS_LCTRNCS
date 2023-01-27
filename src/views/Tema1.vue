@@ -100,7 +100,7 @@
           .col-8
             img(src='@/assets/curso/temas/t1/f9.svg' alt='icono relacionado')
         h4.text-center Versión
-        p.text-center Una versión no recomendada por el fabricante pude producir sobrecalentamientos, mal funcionamiento o averías graves en el 
+        p.text-center Una versión no recomendada por el fabricante puede producir sobrecalentamientos, mal funcionamiento o averías graves en el 
           em hardware 
           | del aparato electrónico.
       .tarjeta.fcac15.p-4(style="height:460px")

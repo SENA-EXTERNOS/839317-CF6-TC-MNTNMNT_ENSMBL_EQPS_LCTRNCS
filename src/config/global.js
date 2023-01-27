@@ -256,7 +256,7 @@ export default {
     },
     {
       referencia:
-        'Secretaría de Habitat Servicio de Higiene y Seguridad. (s.f.). <em>Normas de Seguridad para Manipular Residuos Peligrosos: Higiene y Seguridad.</em> UBAEXACTAS.',
+        'Secretaría de Hábitat Servicio de Higiene y Seguridad. (s.f.). <em>Normas de Seguridad para Manipular Residuos Peligrosos: Higiene y Seguridad.</em> UBAEXACTAS.',
       link:
         'https://exactas.uba.ar/higieneyseguridad/medio-ambiente/residuos/residuos-peligrosos/normas-de-seguridad-para-manipular-residuos-peligrosos/',
     },
