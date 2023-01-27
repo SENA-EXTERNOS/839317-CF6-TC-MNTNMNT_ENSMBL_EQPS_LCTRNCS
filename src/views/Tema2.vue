@@ -29,7 +29,7 @@
             figure
               img(src='@/assets/curso/temas/t2/f3.png', alt='')
           .col-md-6
-            p En relación con lo visto en el componente de diagnóstico de equipos electrónicos, la frecuencia con la que se debe realizar un mantenimiento preventivo depende de las horas de uso que tenga el aparato dentro de una determinada zona, el tipo de trabajo, la disponibilidad de los profesionales encargados del proceso y el presupuesto designado al área de mantenimiento. Parámetros importes que se deben tener en cuenta a hora de agendar los diferentes procedimientos.
+            p En relación con lo visto en el componente de diagnóstico de equipos electrónicos, la frecuencia con la que se debe realizar un mantenimiento preventivo depende de las horas de uso que tenga el aparato dentro de una determinada zona, el tipo de trabajo, la disponibilidad de los profesionales encargados del proceso y el presupuesto designado al área de mantenimiento. Parámetros importantes que se deben tener en cuenta a hora de agendar los diferentes procedimientos.
       .py-4.py-md-5(titulo="Limpieza")
         .row.justify-content-around.align-items-center
           .col-md-3.mb-4.mb-md-0

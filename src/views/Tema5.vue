@@ -36,7 +36,7 @@
           figure
             img(src='@/assets/curso/temas/t5/f4.svg', alt='')
         .col-lg-10.col-sm-12
-          p Ya que cada país tiene sus propias normativas que se deben cumplir en la comercialización de equipos electrónicos o importación de los mismos es necesario conocer este tipo de reglas o legislaciones dada la facilidad en la que hoy en día se pueden adquirir o diseñar equipos; a continuación se presenta un material complementario relacionado con esta información, en donde además se encuentran los links de los planes, leyes y resoluciones que giran en torno a la eficiencia energética en este país. (Área metropolitana Valle de Aburra, 2019).
+          p Ya que cada país tiene sus propias normativas que se deben cumplir en la comercialización de equipos electrónicos o importación de los mismos es necesario conocer este tipo de reglas o legislaciones dada la facilidad en la que hoy en día se pueden adquirir o diseñar equipos; a continuación se presenta un material complementario relacionado con esta información, en donde además se encuentran los links de los planes, leyes y resoluciones que giran en torno a la eficiencia energética en este país. (Área metropolitana Valle de Aburrá, 2019).
 
 </template>
 

@@ -11,7 +11,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7
-        p Apreciado aprendiz, bienvenido a este componente formativo, orientado al mantenimiento de equipos de electrónica. Se estudiará sobre el software de equipos (instalación, funcionamiento, configuración fallas comunes, etc.), mantenimiento preventivo, reparación de fallas, manejo ambiental y eficiencia energética. Finalmente, se realizará una aproximación a los conceptos de programación; algoritmos y diagramas de flujo e introducción a los autómatas programables, que deberán ser contemplados cuando se realicen las actividades descritas.
+        p Apreciado aprendiz, bienvenido a este componente formativo, orientado al mantenimiento de equipos de electrónica. Se estudiará sobre el <em>software</em> de equipos (instalación, funcionamiento, configuración, fallas comunes, etc.), mantenimiento preventivo, reparación de fallas, manejo ambiental y eficiencia energética. Finalmente, se realizará una aproximación a los conceptos de programación; algoritmos y diagramas de flujo e introducción a los autómatas programables, que deberán ser contemplados cuando se realicen las actividades descritas.
         p En el siguiente video se conocerán de manera general los saberes que se desarrollarán en este componente formativo.
 
       .col-lg-5(data-aos="fade-left")

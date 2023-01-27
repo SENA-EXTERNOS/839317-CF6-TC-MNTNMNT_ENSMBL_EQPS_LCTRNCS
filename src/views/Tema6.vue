@@ -56,7 +56,7 @@
           .col-md-1
           .col-md-5.mb-4.mb-md-0
             h5 Estructuras Condicionales
-            p Al igual que el tipo de estructura anterior este tipo de instrucciones hacen parte del cuerpo de un algoritmo con la diferencia de que estas solo se ejecutan si y solo sí la condición establecida al inicio de la línea se cumple. Otra forma de ver a este tipo de instrucciones es la de seleccionar o decidir qué camino o dirección debe tomar o seguir un algoritmo dado unas condiciones establecidas.
+            p Al igual que el tipo de estructura anterior este tipo de instrucciones hacen parte del cuerpo de un algoritmo con la diferencia de que estas solo se ejecutan si y solo sí la condición establecida al inicio de la línea se cumple. Otra forma de ver este tipo de instrucciones es la de seleccionar o decidir qué camino o dirección debe tomar o seguir un algoritmo dado unas condiciones establecidas.
           .col-md-5
             figure
               img(src='@/assets/curso/temas/t6/f5.png', alt='Texto que describa la imagen')
@@ -74,7 +74,7 @@
           img(src='@/assets/curso/temas/t6/f6.png', alt='')
 
 
-    h3.mb-5 Introducción a los antómatas programables
+    h3.mb-5 Introducción a los autómatas programables
 
     .col-md-10.mx-auto.mb-5.invertido
       .bloque-texto-a.color-acento-contenido.p-4.p-md-5.mb-5.bgf7
@@ -106,7 +106,7 @@
           .col-10.col-md-4.mx-auto.mb-4
             img(src='@/assets/curso/temas/t6/f10.svg', alt='')
           h5.mb-2 Etapas
-          p Las etapas dentro del lenguaje Grafcet, son situaciones o conjuntos de acciones que se deben realizar en el instante o posición correspondiente. Se suelen tener dos tipos: el primero de ellos, llamado etapas iniciales, en las cuales se marca el inicio de las acciones operativas y su ejecución, generalmente dependen de una condición inicial (por ejemplo, botón “start”). El segundo tipo, se refiere a las llamadas etapas activas; esta clase se caracteriza por ejecutar una acción siempre y cuando las condiciones de la etapa se cumplan. 
+          p Las etapas dentro del lenguaje Grafcet, son situaciones o conjuntos de acciones que se deben realizar en el instante o posición correspondiente. Se suelen tener dos tipos: el primero de ellos, llamado etapas iniciales, en las cuales se marca el inicio de las acciones operativas y su ejecución, generalmente dependen de una condición inicial (por ejemplo, botón <em>“start”</em>). El segundo tipo, se refiere a las llamadas etapas activas; esta clase se caracteriza por ejecutar una acción siempre y cuando las condiciones de la etapa se cumplan. 
         div(x="50%" y="30%" tooltip="Ver más" numero="2")
           .col-10.col-md-4.mx-auto.mb-4
             img(src='@/assets/curso/temas/t6/f11.svg', alt='')

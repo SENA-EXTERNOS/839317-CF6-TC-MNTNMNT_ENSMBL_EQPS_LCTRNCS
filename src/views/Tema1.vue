@@ -33,13 +33,7 @@
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta fcs80")
       .row.align-items-center.justify-content-center(titulo="Preinstalación")
         .col-md-7.mb-4.mb-md-0
-          p Antes de comenzar con cualquier procedimiento de instalaci&oacute;n se deben verificar algunos aspectos generales y propios de los equipos, dentro de los que encuentran; seleccionar el 
-            em software
-            |  que mejor se ajuste a las necesidades de la organizaci&oacute;n y al equipo y verificar si el espacio disponible en el equipo es el suficiente para la instalaci&oacute;n del mismo. Para el caso de realizar una actualizaci&oacute;n o sustituci&oacute;n de un 
-            em software
-            |  en un equipo ya en funcionamiento es necesario llevar a cabo copias de seguridad de la informaci&oacute;n antes de dar comienzo con la intervenci&oacute;n; sin las anteriores condiciones m&iacute;nimas garantizadas, el profesional debe abstenerse de dar inicio con la instalaci&oacute;n del sistema elegido dado que un 
-            em software
-            |  inadecuado o una incorrecta instalaci&oacute;n puede casuar da&ntilde;os directos en los componentes o perdida de la informaci&oacute;n en los dispositivos. Por &uacute;ltimo, cada uno de los fabricantes tienen condiciones adicionales que se deben asegurar antes de iniciar cualquier tipo de intervenci&oacute;n, es por esto por lo cual tambi&eacute;n se debe tener a la mano toda la documentaci&oacute;n relacionada con el proceso de instalaci&oacute;n suministrada por el o los proveedores.
+          p Antes de comenzar con cualquier procedimiento de instalación se deben verificar algunos aspectos generales y propios de los equipos, dentro de los que se encuentran; seleccionar el <em>software</em> que mejor se ajuste a las necesidades de la organización y al equipo y verificar si el espacio disponible en el equipo es el suficiente para la instalación del mismo. Para el caso de realizar una actualización o sustitución de un <em>software</em> en un equipo ya en funcionamiento es necesario llevar a cabo copias de seguridad de la información antes de dar comienzo con la intervención; sin las anteriores condiciones mínimas garantizadas, el profesional debe abstenerse de dar inicio con la instalación del sistema elegido dado que un <em>software</em> inadecuado o una incorrecta instalación puede causar daños directos en los componentes o pérdida de la información en los dispositivos. Por último, cada uno de los fabricantes tienen condiciones adicionales que se deben asegurar antes de iniciar cualquier tipo de intervención, es por esto por lo cual también se debe tener a la mano toda la documentación relacionada con el proceso de instalación suministrada por el o los proveedores. 
         .col-md-3
           figure
             img(src='@/assets/curso/temas/t1/f3.png', alt='Texto que describa la imagen')
@@ -137,7 +131,7 @@
       .col-lg-6.tarjeta.fcp20.tr_first.zi1
         p Las fallas en el funcionamiento de un 
           em software 
-          | son de los eventos más habituales que se pueden presentar dentro de un área productividad, si bien en la mayoría de las ocasiones esto no representa daños en los componentes internos de un aparato electrónico si representa tiempos de inoperatividad. Este tipo de fallas produce en las áreas productivas paros constantes en la producción, retardando de esta manera todos los procesos y obligando a los técnicos de mantenimiento a ejecutar las acciones correctivas o preventivas para solucionar estos percances.
+          | son de los eventos más habituales que se pueden presentar dentro de un área de productividad, si bien en la mayoría de las ocasiones esto no representa daños en los componentes internos de un aparato electrónico si representa tiempos de inoperatividad. Este tipo de fallas produce en las áreas productivas paros constantes en la producción, retardando de esta manera todos los procesos y obligando a los técnicos de mantenimiento a ejecutar las acciones correctivas o preventivas para solucionar estos percances.
       .col-lg-4.zi2(data-aos="fade-left")
         figure
           img(src='@/assets/curso/temas/t1/f12.svg', alt='')
