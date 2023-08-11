@@ -251,8 +251,9 @@ export default {
     },
     {
       referencia:
-        'Neheyler Mechatronics. (2022). <em>Introducción al diagrama de contactos (ladder o KOP).</em> Neheyler Mechatronics.',
-      link: 'https://www.neheylermechatronics.com/plc/introduccionladder/',
+        'Neheyler Mecatrónico. (2020). INTRODUCCIÓN A LADDER | LENGUAJE ESCALERA | DIAGRAMA DE CONTACTOS | KOP. (Video) YouTube.',
+      link:
+        'https://www.youtube.com/watch?v=8WfHVmEUxX4&ab_channel=NeheylerMecatr%C3%B3nico',
     },
     {
       referencia:
