@@ -83,7 +83,7 @@
             .bloque-texto-a__texto.p-4
               p.mb-0 Dentro de un proceso industrial, existen dispositivos electrónicos responsables de automatizar procesos, controlar entradas, salidas, y tomar decisiones en el desarrollo de las actividades industriales. Conocer el tipo de herramienta utilizada para diseñar las instrucciones secuenciales o algoritmos de un autómata programable, resulta ser esencial para comprender e interpretar las soluciones diseñadas por antiguos profesionales o para diseñar proyectos nuevos. (Domingo, J., Grau, A., Martínez, H & Gázmin, J, 2003)
               br
-              p.mb-0 Con lo anterior, se presentan dos grandes lenguajes responsables del diseño de algoritmos en los autómatas programables; ambos buscan, por medio de representaciones gráficas, llegar a una solución de un problema industrial; estos lenguajes son:<b> Grafcet y Landero.</b>
+              p.mb-0 Con lo anterior, se presentan dos grandes lenguajes responsables del diseño de algoritmos en los autómatas programables; ambos buscan, por medio de representaciones gráficas, llegar a una solución de un problema industrial; estos lenguajes son: #[b Grafcet y Ladder].
 
     h3.titulo-tercero(data-aos='fade-right') Grafcet
 
@@ -130,9 +130,9 @@
       .col-lg-7
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta fcs80")
           div(titulo="Elementos tipo contactor")
-            p Dentro de los algoritmos en este tipo de lenguaje es común encontrar los contactores o bobinas que dependiendo de su configuración realizan una acción determinada. Dentro de los tipos más comunes se tienen contactores normalmente abiertos, esta configuración genera un uno lógico a su salida si y solo sí su entrada es un uno lógico. En contactores normalmente cerrados su funcionamiento es inverso al anterior, dando un uno lógico a su salida si y solo se recibe un cero a su entrada. Finalmente, los contactores tipo Reset y Set mantienen una salida fija en presencia de un uno lógico, siendo 0 y uno respectivamente.
+            p Dentro de los algoritmos en este tipo de lenguaje es común encontrar los contactores o bobinas que dependiendo de su configuración realizan una acción determinada. Dentro de los tipos más comunes se tienen contactores normalmente abiertos, esta configuración genera un uno lógico a su salida si y solo sí su entrada es un uno lógico. En contactores normalmente cerrados su funcionamiento es inverso al anterior, dando un uno lógico a su salida si y solo sí se recibe un cero a su entrada. Finalmente, los contactores tipo Reset y Set mantienen una salida fija en presencia de un uno lógico, siendo 0 y uno respectivamente.
           div(titulo="Elementos tipo caja")
-            p Este tipo de elementos son estructuras complejas que ayudan a realizar diversas tareas dentro de un algoritmo, los más comunes en esta categoría son; temporizadores, contadores, bloques de datos.
+            p Este tipo de elementos son estructuras complejas que ayudan a realizar diversas tareas dentro de un algoritmo, los más comunes en esta categoría son: temporizadores, contadores, bloques de datos.
           
     .col-md-10.mx-auto
       .cajon.color-acento-botones.p-4.mb-4

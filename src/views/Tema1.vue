@@ -76,7 +76,7 @@
       .col-lg-6.tarjeta.fcp20.tr_last.zi1
         p El funcionamiento del 
           em software
-          |  y del equipo contenedor del mismo se debe verificar una vez se han realizado todas las correcciones y/o verificaci&oacute;n del estado de instalaci&oacute;n. A diferencia de la post instalaci&oacute;n en donde el objetivo principal es la b&uacute;squeda de aquellos modos u opciones que no se encuentren habilitados, as&iacute; como tambi&eacute;n aquellos controladores que no se hubiesen instalados de manera correcta.
+          |  y del equipo contenedor del mismo se debe verificar una vez se han realizado todas las correcciones y/o verificaci&oacute;n del estado de instalaci&oacute;n. A diferencia de la post instalaci&oacute;n en donde el objetivo principal es la b&uacute;squeda de aquellos modos u opciones que no se encuentren habilitados, as&iacute; como tambi&eacute;n aquellos controladores que no se hubiesen instalado de manera correcta.
         p A continuación, se presentan algunos de los elementos que deben ser considerados en la verificación y funcionamiento del 
           em software:
 

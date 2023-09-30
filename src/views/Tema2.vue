@@ -29,14 +29,14 @@
             figure
               img(src='@/assets/curso/temas/t2/f3.png', alt='')
           .col-md-6
-            p En relación con lo visto en el componente de diagnóstico de equipos electrónicos, la frecuencia con la que se debe realizar un mantenimiento preventivo depende de las horas de uso que tenga el aparato dentro de una determinada zona, el tipo de trabajo, la disponibilidad de los profesionales encargados del proceso y el presupuesto designado al área de mantenimiento. Parámetros importantes que se deben tener en cuenta a hora de agendar los diferentes procedimientos.
+            p En relación con lo visto en el componente de diagnóstico de equipos electrónicos, la frecuencia con la que se debe realizar un mantenimiento preventivo depende de las horas de uso que tenga el aparato dentro de una determinada zona, el tipo de trabajo, la disponibilidad de los profesionales encargados del proceso y el presupuesto designado al área de mantenimiento. Parámetros importantes que se deben tener en cuenta a la hora de agendar los diferentes procedimientos.
       .py-4.py-md-5(titulo="Limpieza")
         .row.justify-content-around.align-items-center
           .col-md-3.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/t2/f4.png', alt='')
           .col-md-6
-            p La limpieza dentro de un equipo electrónico es fundamental para un correcto funcionamiento, ya que elementos como el polvo y demás residuos suelen tapar las zonas de ventilación provocando recalentamientos en los equipos, aumento en el consumo energético y el desgaste de componentes o piezas. Así mismo, el polvo acumulado puede llevar a errores en el uso de periféricos de un equipo debido a problemas de lectura y a cortocircuitos. Por todo lo anterior se recomienda que un aparato electrónico sea limpiado por lo menos dos veces al año en condiciones normales y más de dos veces en condiciones en donde el entorno de trabajo sea muy agresivo (acumulación de polvo excesivos). 
+            p La limpieza dentro de un equipo electrónico es fundamental para un correcto funcionamiento, ya que elementos como el polvo y demás residuos suelen tapar las zonas de ventilación provocando recalentamientos en los equipos, aumento en el consumo energético y el desgaste de componentes o piezas. Así mismo, el polvo acumulado puede llevar a errores en el uso de periféricos de un equipo debido a problemas de lectura y a cortocircuitos. Por todo lo anterior se recomienda que un aparato electrónico sea limpiado por lo menos dos veces al año en condiciones normales y más de dos veces en condiciones en donde el entorno de trabajo sea muy agresivo (acumulación de polvo excesivo). 
       .py-4.py-md-5(titulo="Lubricación")
         .row.justify-content-around.align-items-center
           .col-md-3.mb-4.mb-md-0
@@ -50,7 +50,7 @@
             figure
               img(src='@/assets/curso/temas/t2/f5.png', alt='')
           .col-md-6
-            p Dentro de los procesos del mantenimiento preventivo se suelen encontrar situaciones que pueden llegar a ser peligrosas sino se tiene cuidado; por ejemplo, manipular elementos de un equipo electrónico o realizar el desarmado del mismo con la fuente de alimentación conectada resulta en un riesgo muy alto sino se procede con cuidado. Otro ejemplo es la manipulación de fuentes de energía o de acumuladores que aún siguen conectados o en las cuales no se ha esperado lo suficiente para su respectiva descarga, causando electrocución, descargas eléctricas o averías en los elementos internos de un aparato electrónico. Para aquellos procesos en donde la lubricación sea en piezas mecánicas se debe no solo desconectar el equipo sino también esperar a que este disminuya su temperatura para poder manipularlo. Para más información sobre el tema se recomienda (Bolinches, 2012).
+            p Dentro de los procesos del mantenimiento preventivo se suelen encontrar situaciones que pueden llegar a ser peligrosas si no se tiene cuidado; por ejemplo, manipular elementos de un equipo electrónico o realizar el desarmado del mismo con la fuente de alimentación conectada resulta en un riesgo muy alto sino se procede con cuidado. Otro ejemplo es la manipulación de fuentes de energía o de acumuladores que aún siguen conectados o en las cuales no se ha esperado lo suficiente para su respectiva descarga, causando electrocución, descargas eléctricas o averías en los elementos internos de un aparato electrónico. Para aquellos procesos en donde la lubricación sea en piezas mecánicas se debe no solo desconectar el equipo sino también esperar a que este disminuya su temperatura para poder manipularlo. Para más información sobre el tema se recomienda (Bolinches, 2012).
       .py-4.py-md-5(titulo="Funcionamiento del equipo")
         .row.justify-content-around.align-items-center
           .col-md-3.mb-4.mb-md-0
