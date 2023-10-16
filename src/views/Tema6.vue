@@ -81,7 +81,7 @@
         .row.m-0.align-items-center.justify-content-between
           .col-lg-7.mb-4.mb-lg-0
             .bloque-texto-a__texto.p-4
-              p.mb-0 Dentro de un proceso industrial, existen dispositivos electrónicos responsables de automatizar procesos, controlar entradas, salidas, y tomar decisiones en el desarrollo de las actividades industriales. Conocer el tipo de herramienta utilizada para diseñar las instrucciones secuenciales o algoritmos de un autómata programable, resulta ser esencial para comprender e interpretar las soluciones diseñadas por antiguos profesionales o para diseñar proyectos nuevos. (Domingo, J., Grau, A., Martínez, H & Gázmin, J, 2003)
+              p.mb-0 Dentro de un proceso industrial, existen dispositivos electrónicos responsables de automatizar procesos, controlar entradas, salidas, y tomar decisiones en el desarrollo de las actividades industriales. Conocer el tipo de herramienta utilizada para diseñar las instrucciones secuenciales o algoritmos de un autómata programable, resulta ser esencial para comprender e interpretar las soluciones diseñadas por antiguos profesionales o para diseñar proyectos nuevos (Domingo, J., Grau, A., Martínez, H & Gázmin, J, 2003).
               br
               p.mb-0 Con lo anterior, se presentan dos grandes lenguajes responsables del diseño de algoritmos en los autómatas programables; ambos buscan, por medio de representaciones gráficas, llegar a una solución de un problema industrial; estos lenguajes son: #[b Grafcet y Ladder].
 
